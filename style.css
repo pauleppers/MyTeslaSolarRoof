@@ -1,0 +1,31 @@
+
+/* Giving the body the specified background color, adding font sizes for the h1 and h3 elements we'll be using */
+
+
+
+body {
+  background: #f1f1f1;
+  color: #367c2b;
+  padding: 5px;
+}
+
+a {color: blue;
+ 
+}
+
+
+h3 {
+  font-size: 30px;
+} 
+h5 {
+  padding-top: 30px;
+}
+
+/* Making our navbar li's inline-block elements this makes it so we can have multiple on the same line. Floats could have been used too */
+
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
