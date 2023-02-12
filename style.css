@@ -9,7 +9,7 @@ body {
   padding: 5px;
 }
 
-a {color: blue;
+a {color: #367c2b;
  
 }
 
@@ -27,5 +27,8 @@ h5 {
 table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
+}
+
+img {max-width: auto;
 }
 
